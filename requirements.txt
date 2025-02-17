@@ -1,0 +1,10 @@
+pyspark
+pandas 
+opencv-python 
+albumentations 
+dvc 
+tqdm
+pandas
+matplotlib
+seaborn
+
